@@ -31,6 +31,7 @@ The dataset used for training is the California housing dataset, which includes 
 1. URL: /predict
 2. Method: POST
 3. Request Body Sample:
+
 {
     "MedInc": 8.3,
     "HouseAge": 41.0,
