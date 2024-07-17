@@ -1,0 +1,6 @@
+# .gitignore
+.env
+__pycache__
+*.pyc
+fastapi.txt
+machine_learning_model/house_prices_predictor_model_1.pkl
