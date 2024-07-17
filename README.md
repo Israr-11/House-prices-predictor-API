@@ -1,6 +1,6 @@
 # House Prices Predictor API
 
-This project is a machine learning model to predict house prices using the California housing dataset. The model is deployed as a REST API using FastAPI.
+This is the REST API developed using Python (Fast API framework) and it is to ease out the process of getting the house price prediction from House Prices predictor model
 
 # Project Structure
 
