@@ -53,7 +53,7 @@ Numpy
 Pydantic
 
 ## Cloning this project and running
-1. git clone <url> to clone this project
+1. **git clone <url>** to clone this project
 2. Create a virtual environment and activate it as
  **python3 -m venv venv
 source venv/bin/activate**  # On Windows use `venv\Scripts\activate`
