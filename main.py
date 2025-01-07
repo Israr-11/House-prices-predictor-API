@@ -3,6 +3,7 @@ from pydantic import BaseModel
 import joblib
 import numpy as np
 
+#Calling Fast API
 app = FastAPI()
 
 # Load the trained model
